@@ -1,7 +1,7 @@
 # skip boilerplate check
 
 # [opt] Billing account id - overrides default if set
-billing_account_id: 01419B-xxxxx-zzzzz
+billing_account_id: XXXXX-YYYYYY-5FCCF1
 
 # [opt] Billing alerts config - overrides default if set
 billing_alert:
@@ -20,7 +20,7 @@ essential_contacts:
   - team-a-contacts@example.com
 
 # Folder the project will be created as children of
-folder_id: folders/23123322332
+folder_id: folders/FOLDER_NUMBER_HERE
 
 
 # [opt] Labels for the project - merged with the ones defined in defaults
